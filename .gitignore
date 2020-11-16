@@ -1,2 +1,2 @@
-.ipynb_checkpoints
-.asv
+**/*.ipynb_checkpoints
+**/*.asv
